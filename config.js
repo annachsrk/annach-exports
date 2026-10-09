@@ -1,5 +1,5 @@
 window.ANNACH_CONFIG = {
-  businessEmail: 'annachexports@gmail.com',
+  businessEmail: 'exports@annachexports.com',
   whatsappNumber: '',
   whatsappDisplay: '',
   companyName: 'Annach Ventures Global LLP',
