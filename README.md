@@ -14,7 +14,7 @@ Domain: annachexports.com
 - `assets/annach-logo-original.png` — EXACT supplied ANNACH logo file, unmodified
 
 ## Current website status
-- Business email: `annachexports@gmail.com` — tested successfully
+- Business email: `exports@annachexports.com` — tested successfully
 - Tally form: published and embedded using the Standard embed
 - Tally self-email notifications: enabled and tested successfully
 - Final product portfolio: Moringa; Mango — Seasonal; Kodai Hill Garlic — Seasonal; Guava; Indian Millets; Indian Food Products; Other / Custom Sourcing
